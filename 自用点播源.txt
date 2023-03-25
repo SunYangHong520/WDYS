@@ -1,7 +1,7 @@
 
 {
 
-"spider":"https://raw.githubusercontent.com/SunYangHong520/WDYS/main/fan.jar",
+"spider":"https://raw.githubusercontent.com/SunYangHong520/WDYS/main/fan-1.jar",
 
 "wallpaper":"https://agit.ai/n3rd/N3RD/raw/branch/master/W/crimetv.png",
 
