@@ -1,7 +1,7 @@
 #### 四级标题
 {
 
-"spider":"https://github.com/SunYangHong520/WDYS/blob/main/lem0407.jar",
+"spider":"https://raw.githubusercontent.com/SunYangHong520/WDYS/main/lem0407.jar",
 "wallpaper":"https://agit.ai/n3rd/N3RD/raw/branch/master/W/crimetv.png",
 	"lives":[{"name":"直播","type":0,"epg":"http://epg.51zmt.top:8000/api/diyp/","url":"https://download.kstore.space/download/2863/live.txt"}],
 "sites":[
