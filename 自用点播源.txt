@@ -229,7 +229,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	,"jar":"https://agit.ai/sunyanghonh_/SYHCK/raw/branch/master/jar/lem0407.jar"},
+	,"jar":"https://raw.githubusercontent.com/SunYangHong520/WDYS/main/fan-1.jar"},
 {
 			"key": "mangguo",
 			"name": "🥭芒果",
@@ -238,7 +238,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1
-		,"jar":"https://agit.ai/sunyanghonh_/SYHCK/raw/branch/master/jar/lem0407.jar"},
+		,"jar":"https://raw.githubusercontent.com/SunYangHong520/WDYS/main/fan-1.jar"},
 {
 		"key": "csp_IQIYI",
 		"name": "🥝爱奇艺（官）",
@@ -247,7 +247,7 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	,"jar":"https://agit.ai/sunyanghonh_/SYHCK/raw/branch/master/jar/lem0407.jar"},
+	,"jar":"https://raw.githubusercontent.com/SunYangHong520/WDYS/main/fan-1.jar"},
 {"key":"youku","name":"👖优酷","type":0,"api":"https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","港台剧","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","少儿","其他片"]},
 {"key": "drpy_js_奇珍异兽","name": " 🎑爱奇艺js","type": 3,"api": "https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.min.js","ext": "https://agit.ai/chuqiuyu/gao/raw/branch/master/js/%e5%a5%87%e7%8f%8d%e5%bc%82%e5%85%bd.js"},
 {"key": "drpy_js_腾云驾雾","name": " 🎑腾讯js","type": 3,"api": "https://agit.ai/chuqiuyu/gao/raw/branch/master/js/drpy.min.js","ext": "https://agit.ai/chuqiuyu/gao/raw/branch/master/js/%e8%85%be%e4%ba%91%e9%a9%be%e9%9b%be.js"},
